@@ -11,6 +11,7 @@ desktop.ini
 !*/Src/main.c
 /*/Drivers/
 /*/Startup/
+/*/Middlewares/
 /*/Debug/
 /*/Release/
 /*/*.ld
