@@ -1,0 +1,20 @@
+# Ignore
+.metadata
+.settings
+desktop.ini
+# Allow
+
+#**/**/*.c
+#**/**/*.h
+/*/Src/*.c
+/*/Inc/*.h
+!*/Src/main.c
+/*/Drivers/
+/*/Startup/
+/*/Debug/
+/*/Release/
+/*/*.ld
+/*/*.project
+/*/*.mxproject
+/*/*.cproject
+/*/*.launch
